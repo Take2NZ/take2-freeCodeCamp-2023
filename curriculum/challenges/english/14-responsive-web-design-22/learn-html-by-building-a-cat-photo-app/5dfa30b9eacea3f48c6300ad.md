@@ -11,13 +11,13 @@ Turn the image into a link by surrounding it with necessary element tags. Use `h
 
 # --hints--
 
-You should have an `img` element with an `src` value of `https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg`. You may have accidentally deleted it.
+You should have an `img` element with an `src` value of `http://localhost:8000/static/cat-photo-app/relaxing-cat.jpg`. You may have accidentally deleted it.
 
 ```js
 assert(
   document.querySelector('img') &&
     document.querySelector('img').getAttribute('src') ===
-      'https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg'
+      'http://localhost:8000/static/cat-photo-app/relaxing-cat.jpg'
 );
 ```
 
@@ -79,7 +79,7 @@ assert(document.querySelector('img').parentNode.nodeName === 'A');
       <!-- TODO: Add link to cat photos -->
       <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
 --fcc-editable-region--
-      <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+      <img src="http://localhost:8000/static/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
 --fcc-editable-region--
     </main>
   </body>
