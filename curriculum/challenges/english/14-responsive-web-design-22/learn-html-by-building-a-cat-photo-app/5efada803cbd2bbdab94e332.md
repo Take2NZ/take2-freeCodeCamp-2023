@@ -7,7 +7,7 @@ dashedName: step-29
 
 # --description--
 
-Inside the `figure` element you just added, nest an `img` element with a `src` attribute set to `http://localhost:8000/static/cat-photo-app/cats.jpg`.
+Inside the `figure` element you just added, nest an `img` element with a `src` attribute set to `http://localhost:8000/images/cat-photo-app/cats.jpg`.
 
 # --hints--
 
@@ -38,20 +38,20 @@ assert(
 );
 ```
 
-The third image should have an `src` attribute set to `http://localhost:8000/static/cat-photo-app/cats.jpg`.
+The third image should have an `src` attribute set to `http://localhost:8000/images/cat-photo-app/cats.jpg`.
 
 ```js
 const catsImg = document.querySelectorAll('figure > img')[1];
 assert(
   catsImg &&
-    catsImg.getAttribute('src').toLowerCase() === 'http://localhost:8000/static/cat-photo-app/cats.jpg'
+    catsImg.getAttribute('src').toLowerCase() === 'http://localhost:8000/images/cat-photo-app/cats.jpg'
 );
 ```
 
 Although you have set the new image's `src` to the correct URL, it is recommended to always surround the value of an attribute with quotation marks.
 
 ```js
-assert(!/\<img\s+.+\s+src\s*=\s*http:\/\/localhost\:8000\/static\/cat-photo-app\/cats\.jpg/.test(code));
+assert(!/\<img\s+.+\s+src\s*=\s*http:\/\/localhost\:8000\/images\/cat-photo-app\/cats\.jpg/.test(code));
 ```
 
 # --seed--
@@ -67,7 +67,7 @@ assert(!/\<img\s+.+\s+src\s*=\s*http:\/\/localhost\:8000\/static\/cat-photo-app\
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="http://localhost:8000/static/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="http://localhost:8000/images/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -78,7 +78,7 @@ assert(!/\<img\s+.+\s+src\s*=\s*http:\/\/localhost\:8000\/static\/cat-photo-app\
           <li>lasagna</li>
         </ul>
         <figure>
-          <img src="http://localhost:8000/static/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <img src="http://localhost:8000/images/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
           <figcaption>Cats <em>love</em> lasagna.</figcaption>  
         </figure>
         <h3>Top 3 things cats hate:</h3>
