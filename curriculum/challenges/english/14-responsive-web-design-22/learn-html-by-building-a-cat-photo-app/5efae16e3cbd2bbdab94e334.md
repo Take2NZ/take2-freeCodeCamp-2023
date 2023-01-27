@@ -35,7 +35,7 @@ The last `img` element should be nested in the `figure` element.
 const catsImg = document.querySelectorAll('figure > img')[1];
 assert(
   catsImg &&
-    catsImg.getAttribute('src').toLowerCase() === 'http://localhost:8000/static/cat-photo-app/cats.jpg'
+    catsImg.getAttribute('src').toLowerCase() === 'http://localhost:8000/images/cat-photo-app/cats.jpg'
 );
 ```
 
@@ -90,7 +90,7 @@ assert(
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="http://localhost:8000/static/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="http://localhost:8000/images/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
@@ -101,7 +101,7 @@ assert(
           <li>lasagna</li>
         </ul>
         <figure>
-          <img src="http://localhost:8000/static/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <img src="http://localhost:8000/images/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
           <figcaption>Cats <em>love</em> lasagna.</figcaption>  
         </figure>
         <h3>Top 3 things cats hate:</h3>
@@ -112,7 +112,7 @@ assert(
         </ol>
 --fcc-editable-region--
         <figure>
-          <img src="http://localhost:8000/static/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+          <img src="http://localhost:8000/images/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
 
         </figure>
 --fcc-editable-region--
