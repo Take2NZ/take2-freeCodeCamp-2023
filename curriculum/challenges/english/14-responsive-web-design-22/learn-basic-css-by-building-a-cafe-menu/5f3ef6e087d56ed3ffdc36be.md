@@ -91,7 +91,7 @@ assert($('.established').css('font-style') === 'italic');
 
 ```css
 body {
-  background-image: url(http://localhost:8000/images/css-cafe/beans.png);
+  background-image: url(http://localhost:8000/images/css-cafe/beans.jpg);
   font-family: sans-serif;
 }
 
