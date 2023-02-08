@@ -84,7 +84,7 @@ assert(code.match(/\/\*\s*FOOTER\s*\*\//i));
 
 ```css
 body {
-  background-image: url(http://localhost:8000/images/css-cafe/css-cafe/beans.jpg);
+  background-image: url(http://localhost:8000/images/css-cafe/css-cafe/beans.png);
   font-family: sans-serif;
   padding: 20px;
 }

@@ -77,7 +77,7 @@ assert($('h2')[1].innerText.match(/Desserts/i));
 
 ```css
 body {
-  background-image: url(http://localhost:8000/images/css-cafe/css-cafe/beans.jpg);
+  background-image: url(http://localhost:8000/images/css-cafe/css-cafe/beans.png);
 }
 
 h1, h2, p {
