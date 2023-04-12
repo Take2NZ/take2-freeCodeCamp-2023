@@ -2,7 +2,7 @@
 id: 56533eb9ac21ba0edf2244b1
 title: Compound Assignment With Augmented Multiplication
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/c83vrfa'
+videoUrl: '/help-videos/Compound Assignment With Augmented Subtraction.webm'
 forumTopicId: 16662
 dashedName: compound-assignment-with-augmented-multiplication
 ---

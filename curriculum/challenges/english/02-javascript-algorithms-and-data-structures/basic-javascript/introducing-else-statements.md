@@ -2,7 +2,7 @@
 id: 56533eb9ac21ba0edf2244da
 title: Introducing Else Statements
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cek4Efq'
+videoUrl: '/help-videos/Introducing Else Statements.webm'
 forumTopicId: 18207
 dashedName: introducing-else-statements
 ---

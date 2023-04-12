@@ -2,7 +2,7 @@
 id: 5688e62ea601b2482ff8422b
 title: Profile Lookup
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cDqW2Cg'
+videoUrl: '/help-videos/Profile Lookup.webm'
 forumTopicId: 18259
 dashedName: profile-lookup
 ---

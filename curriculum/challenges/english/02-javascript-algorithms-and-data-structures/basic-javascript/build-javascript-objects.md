@@ -2,7 +2,7 @@
 id: 56bbb991ad1ed5201cd392d0
 title: Build JavaScript Objects
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cWGkbtd'
+videoUrl: '/help-videos/BuildJavaScriptObjects.mp4'
 forumTopicId: 16769
 dashedName: build-javascript-objects
 ---

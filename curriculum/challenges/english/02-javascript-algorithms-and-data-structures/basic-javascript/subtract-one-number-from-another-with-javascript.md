@@ -2,7 +2,7 @@
 id: cf1111c1c11feddfaeb4bdef
 title: Subtract One Number from Another with JavaScript
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cP3yQtk'
+videoUrl: '/help-videos/Subtract One Number from Another with JavaScript.webm'
 forumTopicId: 18314
 dashedName: subtract-one-number-from-another-with-javascript
 ---

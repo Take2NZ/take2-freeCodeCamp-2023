@@ -2,7 +2,7 @@
 id: 56533eb9ac21ba0edf2244cd
 title: Accessing Nested Arrays
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cLeGDtZ'
+videoUrl: '/help-videos/Accessing Nested Arrays.webm'
 forumTopicId: 16160
 dashedName: accessing-nested-arrays
 ---

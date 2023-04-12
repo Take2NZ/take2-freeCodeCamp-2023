@@ -2,7 +2,7 @@
 id: 587d7b7e367417b2b2512b21
 title: Use Multiple Conditional (Ternary) Operators
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cyWJBT4'
+videoUrl: '/help-videos/Use Multiple Conditional (Ternary) Operators.webm'
 forumTopicId: 301179
 dashedName: use-multiple-conditional-ternary-operators
 ---
