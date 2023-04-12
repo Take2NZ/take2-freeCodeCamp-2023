@@ -2,7 +2,7 @@
 id: 56533eb9ac21ba0edf2244c4
 title: Return Early Pattern for Functions
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cQe39Sq'
+videoUrl: '/help-videos/Return Early Pattern for Functions.webm'
 forumTopicId: 18272
 dashedName: return-early-pattern-for-functions
 ---

@@ -2,7 +2,7 @@
 id: 5679ceb97cbaa8c51670a16b
 title: Returning Boolean Values from Functions
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cp62qAQ'
+videoUrl: '/help-videos/Returning Boolean Values from Functions.webm'
 forumTopicId: 18273
 dashedName: returning-boolean-values-from-functions
 ---

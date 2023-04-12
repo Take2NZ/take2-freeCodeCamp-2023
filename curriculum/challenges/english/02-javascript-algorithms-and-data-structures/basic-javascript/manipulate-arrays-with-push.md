@@ -2,7 +2,7 @@
 id: 56bbb991ad1ed5201cd392cb
 title: Manipulate Arrays With push()
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cnqmVtJ'
+videoUrl: '/help-videos/Manipulate Arrays With push().webm'
 forumTopicId: 18237
 dashedName: manipulate-arrays-with-push
 ---

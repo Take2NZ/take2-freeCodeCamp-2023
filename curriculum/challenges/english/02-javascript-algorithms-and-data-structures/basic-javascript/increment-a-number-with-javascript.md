@@ -2,7 +2,7 @@
 id: 56533eb9ac21ba0edf2244ac
 title: Increment a Number with JavaScript
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/ca8GLT9'
+videoUrl: '/help-videos/Increment a Number with JavaScript.webm'
 forumTopicId: 18201
 dashedName: increment-a-number-with-javascript
 ---

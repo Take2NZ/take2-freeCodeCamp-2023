@@ -2,7 +2,7 @@
 id: 56533eb9ac21ba0edf2244cc
 title: Accessing Nested Objects
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cRnRnfa'
+videoUrl: '/help-videos/Accessing Nested Objects.webm'
 forumTopicId: 16161
 dashedName: accessing-nested-objects
 ---

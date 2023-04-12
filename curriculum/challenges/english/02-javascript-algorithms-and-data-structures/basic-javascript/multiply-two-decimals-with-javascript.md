@@ -2,7 +2,7 @@
 id: bd7993c9c69feddfaeb7bdef
 title: Multiply Two Decimals with JavaScript
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/ce2GeHq'
+videoUrl: '/help-videos/Multiply Two Decimals with JavaScript.webm'
 forumTopicId: 301173
 dashedName: multiply-two-decimals-with-javascript
 ---

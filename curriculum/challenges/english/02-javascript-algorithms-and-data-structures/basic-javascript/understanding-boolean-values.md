@@ -2,7 +2,7 @@
 id: bd7123c9c441eddfaeb5bdef
 title: Understanding Boolean Values
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/c9Me8t4'
+videoUrl: '/help-videos/Understanding Boolean Values.webm'
 forumTopicId: 301176
 dashedName: understanding-boolean-values
 ---

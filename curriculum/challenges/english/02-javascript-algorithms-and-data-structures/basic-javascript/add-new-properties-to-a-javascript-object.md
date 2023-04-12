@@ -2,7 +2,7 @@
 id: 56bbb991ad1ed5201cd392d2
 title: Add New Properties to a JavaScript Object
 challengeType: 1
-videoUrl: 'https://scrimba.com/c/cQe38UD'
+videoUrl: '/help-videos/Add New Properties to a JavaScript Object.webm'
 forumTopicId: 301169
 dashedName: add-new-properties-to-a-javascript-object
 ---
